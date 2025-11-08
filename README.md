@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-	Tokyo Night Flavor for <a href="https://github.com/sxyazi/yazi">Yazi</a>
+ Tokyo Night Moon Flavor for <a href="https://github.com/sxyazi/yazi">Yazi</a>
 </h3>
 
 ## 👀 Preview
@@ -15,29 +15,28 @@
 ### Using package manager
 
 ```bash
-ya pkg add BennyOe/tokyo-night
+ya pkg add matt-dong-123/tokyo-night-moon
 ```
 
 ### Manual install
 
 ```bash
 # Linux/macOS
-git clone https://github.com/BennyOe/tokyo-night.yazi.git ~/.config/yazi/flavors/tokyo-night.yazi
+git clone https://github.com/matt-dong-123/tokyo-night-moon.yazi.git ~/.config/yazi/flavors/tokyo-night-moon.yazi
 
 # Windows
-git clone https://github.com/BennyOe/tokyo-night.yazi.git %AppData%\yazi\config\flavors\tokyo-night.yazi
+git clone https://github.com/matt-dong-123/tokyo-night-moon.yazi.git %AppData%\yazi\config\flavors\tokyo-night-moon.yazi
 ```
 
 ## ⚙️ Usage
 
 Add the these lines to your `theme.toml` configuration file to use it:
 
-
 ```toml
 [flavor]
-use = "tokyo-night"
+use = "tokyo-night-moon"
 # For Yazi 0.4 and above
-dark = "tokyo-night"
+dark = "tokyo-night-moon"
 ```
 
 ## 📜 License
