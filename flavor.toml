@@ -5,6 +5,10 @@
 [mgr]
 cwd = { fg = "#828bb8" }
 
+# Hovered
+hovered = { reversed = true }
+preview_hovered = { underline = true }
+
 # Find
 find_keyword = { fg = "#ffc777", bold = true, italic = true, underline = true }
 find_position = { fg = "#fca7ea", bg = "reset", bold = true, italic = true }
@@ -196,4 +200,3 @@ rules = [
 ]
 
 # : }}}
-
